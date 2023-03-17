@@ -11,6 +11,7 @@ public class GitUsage {
         int a=3;
         System.out.println(a*a);
 
+        System.out.println("nnnnnnnn");
     }
 
 }
