@@ -8,6 +8,9 @@ public class GitUsage {
         System.out.println("Don'd forget to commit me");
         System.out.println("again");
 
+        int a=3;
+        System.out.println(a*a);
+
     }
 
 }
