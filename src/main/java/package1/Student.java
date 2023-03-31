@@ -14,5 +14,7 @@ public class Student {
 
         System.out.println(Arrays.toString(array));
         System.out.println("Student changes");
+
+        System.out.println("I want to see stash situation");
     }
 }
