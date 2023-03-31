@@ -12,6 +12,8 @@ public class Student2 {
         int x=a;
 
         System.out.println("kkd");
+        System.out.println("kkd");
+        System.out.println("kkd");
 
     }
 
