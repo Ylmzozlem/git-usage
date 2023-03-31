@@ -18,6 +18,10 @@ public class Student2 {
         System.out.println("let me see");
         System.out.println("let me see");
 
+        System.out.println("öödle");
+
+
+
     }
 
 }
