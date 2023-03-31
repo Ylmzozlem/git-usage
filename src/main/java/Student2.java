@@ -11,6 +11,7 @@ public class Student2 {
 
         int x=a;
 
+
         System.out.println("I want to face a conflict");
         System.out.println("kkd");
         System.out.println("kkd");
@@ -20,6 +21,10 @@ public class Student2 {
 
         System.out.println("öödle");
 
+        System.out.println("I do one think");
+
+
+        System.out.println("what happen");
 
 
     }
